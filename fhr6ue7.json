@@ -1,11 +1,11 @@
 {
-  "appName": "Super hero squad",
-  "appDesc": "Metro City",
-  "appLink": "Super tower",
+  "appName": "Demo App",
+  "appDesc": "Demo description",
+  "appLink": "Demo link",
   "articles": [
     {
       "id": 1,
-      "headline": "Molecule Man",
+      "headline": "how to make money with NFT via art",
       "subHeadline": "Molecule Man",
       "heroImg": "https://dummyimage.com/800/000000/fff",
       "authorAvatar": "https://i.pravatar.cc/150?img=52",
@@ -14,16 +14,18 @@
       "category": "How to",
       "views": "100k",
       "likes": 44,
-      "description": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "elements": [
+        {
+          "additionalText": "The first element",
+          "additionalText": "First element main text",
+          "additionalText": "First element additional text"
+        }
       ]
     },
     {
       "id": 2,
-      "headline": "Molecule Man",
-      "subHeadline": "Molecule Man",
+      "headline": "How to promote NFT ART via social media channels",
+      "subHeadline": "NFT ART promotion",
       "heroImg": "https://dummyimage.com/800/000000/fff",
       "authorAvatar": "https://i.pravatar.cc/150?img=52",
       "authorName": "Molecule Man",
@@ -31,10 +33,12 @@
       "category": "How to",
       "views": "100k",
       "likes": 44,
-      "description": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "elements": [
+        {
+          "additionalText": "The first element",
+          "additionalText": "First element main text",
+          "additionalText": "First element additional text"
+        }
       ]
     },
     {
@@ -48,10 +52,12 @@
       "category": "How to",
       "views": "100k",
       "likes": 44,
-      "description": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "elements": [
+        {
+          "additionalText": "The first element",
+          "additionalText": "First element main text",
+          "additionalText": "First element additional text"
+        }
       ]
     },
     {
@@ -65,10 +71,12 @@
       "category": "How to",
       "views": "100k",
       "likes": 44,
-      "description": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "elements": [
+        {
+          "additionalText": "The first element",
+          "additionalText": "First element main text",
+          "additionalText": "First element additional text"
+        }
       ]
     },
     {
@@ -82,10 +90,12 @@
       "category": "How to",
       "views": "100k",
       "likes": 44,
-      "description": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "elements": [
+        {
+          "additionalText": "The first element",
+          "additionalText": "First element main text",
+          "additionalText": "First element additional text"
+        }
       ]
     }
   ]
