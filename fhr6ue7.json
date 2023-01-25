@@ -15,10 +15,10 @@
       "views": "100k",
       "likes": 44,
       "elements": [
-        {
-          "additionalText1": "The first element",
-          "additionalText2": "First element main text",
-          "additionalText3": "First element additional text"
+       {
+          "additionalText": "The first element",
+          "additionalText": "First element main text",
+          "additionalText": "First element additional text"
         }
       ]
     },
