@@ -43,7 +43,7 @@
     },
     {
       "id": 3,
-      "headline": "Molecule Man",
+      "headline": "<p>To force<br> line breaks<br> in a text,<br> use the br<br> element.</p>",
       "subHeadline": "Molecule Man",
       "heroImg": "https://dummyimage.com/800/000000/fff",
       "authorAvatar": "https://i.pravatar.cc/150?img=52",
