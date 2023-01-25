@@ -5,22 +5,16 @@
   "articles": [
     {
       "id": 1,
-      "headline": "<h1>how to make money with NFT via art</h1>",
-      "subHeadline": "Molecule Man",
+      "headline": "The Blockbuster-Netflix story you didn’t know",
+      "subHeadline": "A couple of days ago, Reed Hastings, the co-founder and long-time CEO of Netflix stepped down from his role at the streaming giant.",
       "heroImg": "https://dummyimage.com/800/000000/fff",
       "authorAvatar": "https://i.pravatar.cc/150?img=52",
       "authorName": "Molecule Man",
-      "date": "Oct 31, 2022",
-      "category": "How to",
+      "date": "25 January 2023",
+      "category": "Business",
       "views": "100k",
       "likes": 44,
-      "elements": [
-       {
-          "additionalText": "The first element",
-          "additionalText": "First element main text",
-          "additionalText": "First element additional text"
-        }
-      ]
+      "articleBody": "You can paste your entire post in here, and yes it can get really really long."
     },
     {
       "id": 2,
@@ -29,74 +23,50 @@
       "heroImg": "https://dummyimage.com/800/000000/fff",
       "authorAvatar": "https://i.pravatar.cc/150?img=52",
       "authorName": "Molecule Man",
-      "date": "Oct 31, 2022",
-      "category": "How to",
-      "views": "100k",
-      "likes": 44,
-      "elements": [
-        {
-          "additionalText": "The first element",
-          "additionalText": "First element main text",
-          "additionalText": "First element additional text"
-        }
-      ]
+      "date": "24 January 2023",
+      "category": "Business",
+      "views": "500k",
+      "likes": 444,
+      "articleBody": "You can paste your entire post in here, and yes it can get really really long."
     },
     {
       "id": 3,
-      "headline": "<p>To force<br> line breaks<br> in a text,<br> use the br<br> element.</p>",
-      "subHeadline": "Molecule Man",
+      "headline": "Is Yes Bank in trouble? Again??",
+      "subHeadline": "In today’s Finshots, we explain how an exotic financial instrument.",
       "heroImg": "https://dummyimage.com/800/000000/fff",
       "authorAvatar": "https://i.pravatar.cc/150?img=52",
       "authorName": "Molecule Man",
       "date": "Oct 31, 2022",
-      "category": "How to",
+      "category": "Business",
       "views": "100k",
       "likes": 44,
-      "elements": [
-        {
-          "additionalText": "The first element",
-          "additionalText": "First element main text",
-          "additionalText": "First element additional text"
-        }
-      ]
+      "articleBody": "You can paste your entire post in here, and yes it can get really really long."
     },
     {
       "id": 4,
-      "headline": "Molecule Man",
-      "subHeadline": "Molecule Man",
+      "headline": "Why did Amazon buy MGM Studios?",
+      "subHeadline": "You can buy almost anything on Amazon.",
       "heroImg": "https://dummyimage.com/800/000000/fff",
       "authorAvatar": "https://i.pravatar.cc/150?img=52",
       "authorName": "Molecule Man",
-      "date": "Oct 31, 2022",
-      "category": "How to",
+      "date": "31 May 2021",
+      "category": "Business",
       "views": "100k",
       "likes": 44,
-      "elements": [
-        {
-          "additionalText": "The first element",
-          "additionalText": "First element main text",
-          "additionalText": "First element additional text"
-        }
-      ]
+      "articleBody": "You can paste your entire post in here, and yes it can get really really long."
     },
     {
       "id": 5,
-      "headline": "Molecule Man",
-      "subHeadline": "Molecule Man",
+      "headline": "Does your fund manager have skin in the game?",
+      "subHeadline": "On April 28, 2021, SEBI introduced a new rule. ",
       "heroImg": "https://dummyimage.com/800/000000/fff",
       "authorAvatar": "https://i.pravatar.cc/150?img=52",
       "authorName": "Molecule Man",
-      "date": "Oct 31, 2022",
-      "category": "How to",
+      "date": "11 May 2021",
+      "category": "Capital Markets",
       "views": "100k",
       "likes": 44,
-      "elements": [
-        {
-          "additionalText": "The first element",
-          "additionalText": "First element main text",
-          "additionalText": "First element additional text"
-        }
-      ]
+      "articleBody": "You can paste your entire post in here, and yes it can get really really long."
     }
   ]
 }
