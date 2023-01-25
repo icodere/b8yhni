@@ -1,0 +1,92 @@
+{
+  "appName": "Super hero squad",
+  "appDesc": "Metro City",
+  "appLink": "Super tower",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Molecule Man",
+      "subHeadline": "Molecule Man",
+      "heroImg": "https://dummyimage.com/800/000000/fff",
+      "authorAvatar": "https://i.pravatar.cc/150?img=52",
+      "authorName": "Molecule Man",
+      "date": "Oct 31, 2022",
+      "category": "How to",
+      "views": "100k",
+      "likes": 44,
+      "description": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "id": 2,
+      "headline": "Molecule Man",
+      "subHeadline": "Molecule Man",
+      "heroImg": "https://dummyimage.com/800/000000/fff",
+      "authorAvatar": "https://i.pravatar.cc/150?img=52",
+      "authorName": "Molecule Man",
+      "date": "Oct 31, 2022",
+      "category": "How to",
+      "views": "100k",
+      "likes": 44,
+      "description": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "id": 3,
+      "headline": "Molecule Man",
+      "subHeadline": "Molecule Man",
+      "heroImg": "https://dummyimage.com/800/000000/fff",
+      "authorAvatar": "https://i.pravatar.cc/150?img=52",
+      "authorName": "Molecule Man",
+      "date": "Oct 31, 2022",
+      "category": "How to",
+      "views": "100k",
+      "likes": 44,
+      "description": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "id": 4,
+      "headline": "Molecule Man",
+      "subHeadline": "Molecule Man",
+      "heroImg": "https://dummyimage.com/800/000000/fff",
+      "authorAvatar": "https://i.pravatar.cc/150?img=52",
+      "authorName": "Molecule Man",
+      "date": "Oct 31, 2022",
+      "category": "How to",
+      "views": "100k",
+      "likes": 44,
+      "description": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "id": 5,
+      "headline": "Molecule Man",
+      "subHeadline": "Molecule Man",
+      "heroImg": "https://dummyimage.com/800/000000/fff",
+      "authorAvatar": "https://i.pravatar.cc/150?img=52",
+      "authorName": "Molecule Man",
+      "date": "Oct 31, 2022",
+      "category": "How to",
+      "views": "100k",
+      "likes": 44,
+      "description": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    }
+  ]
+}
