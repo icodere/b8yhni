@@ -5,7 +5,7 @@
   "articles": [
     {
       "id": 1,
-      "headline": "how to make money with NFT via art",
+      "headline": "<h1>how to make money with NFT via art</h1>",
       "subHeadline": "Molecule Man",
       "heroImg": "https://dummyimage.com/800/000000/fff",
       "authorAvatar": "https://i.pravatar.cc/150?img=52",
@@ -16,9 +16,9 @@
       "likes": 44,
       "elements": [
         {
-          "additionalText": "The first element",
-          "additionalText": "First element main text",
-          "additionalText": "First element additional text"
+          "additionalText1": "The first element",
+          "additionalText2": "First element main text",
+          "additionalText3": "First element additional text"
         }
       ]
     },
