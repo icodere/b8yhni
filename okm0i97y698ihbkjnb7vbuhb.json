@@ -1,0 +1,129 @@
+{
+    "appHeader": {
+        "title": "A Batman quiz",
+        "desc": "Batman was originally introduced as a ruthless vigilante.",
+        "appLink": "https://play.google.com",
+        "currentQuiztime": "24 hrs left",
+        "nextQuizTitle": "A Superman quiz",
+        "nextQuizDate": "1st Feb 2023",
+        "lastQuizWinnr": "Sheldon Cooper"
+    },
+    "quiz": [
+        {
+            "question": "What is the secret identity of Batman?",
+            "answers": [
+                {
+                    "answer": "Clark Kent",
+                    "correct": false
+                },
+                {
+                    "answer": "Bruce Wayne",
+                    "correct": true
+                },
+                {
+                    "answer": "Tony Stark",
+                    "correct": false
+                },
+                {
+                    "answer": "Peter Parker",
+                    "correct": false
+                }
+            ],
+            "point": 10
+        },
+        {
+            "question": "What is the name of Batman's butler and closest confidant?",
+            "answers": [
+                {
+                    "answer": "Lucius Fox",
+                    "correct": false
+                },
+                {
+                    "answer": "Harvey Dent",
+                    "correct": false
+                },
+                {
+                    "answer": "Jim Gordon",
+                    "correct": false
+                },
+                {
+                    "answer": "Alfred Pennyworth",
+                    "correct": true
+                }
+            ],
+            "point": 10
+        },
+        {
+            "question": "What is the name of Batman's crime-fighting partner?",
+            "answers": [
+                {
+                    "answer": "Superman",
+                    "correct": false
+                },
+                {
+                    "answer": "Wonder Woman",
+                    "correct": false
+                },
+                {
+                    "answer": "Robin",
+                    "correct": true
+                },
+                {
+                    "answer": "Aquaman",
+                    "correct": false
+                }
+            ],
+            "point": 10
+        },
+        {
+            "question": "In which year did the first Batman comic book debut?",
+            "answers": [
+                {
+                    "answer": "1939",
+                    "correct": true
+                },
+                {
+                    "answer": "1949",
+                    "correct": false
+                },
+                {
+                    "answer": "1959",
+                    "correct": false
+                },
+                {
+                    "answer": "1969",
+                    "correct": false
+                }
+            ],
+            "point": 10
+        },
+        {
+            "question": "Who created the character of Batman?",
+            "answers": [
+                {
+                    "answer": "Stan Lee",
+                    "correct": false
+                },
+                {
+                    "answer": "Bob Kane",
+                    "correct": true
+                },
+                {
+                    "answer": "Jack Kirby",
+                    "correct": false
+                },
+                {
+                    "answer": "Alan Moore",
+                    "correct": false
+                }
+            ],
+            "point": 10
+        }
+    ],
+    "voucher": {
+        "message": "Congratulations! You have made it enjoy!",
+        "codeOne": "100MILSEGUIDORES",
+        "codeTwo": "CARREFOURHOED2021",
+        "codeThree": "ECONOMYEVENT2021"
+    }
+}
