@@ -1,7 +1,7 @@
 {
     "appHeader": {
-        "title": "A Batman Quiz",
-        "desc": "Batman was originally introduced as a ruthless vigilante.",
+        "appTitle": "A Batman Quiz",
+        "appDesc": "Batman was originally introduced as a ruthless vigilante.",
         "appLink": "https://play.google.com/store/apps/developer?id=Tapsaga.com&pli=1",
         "currentQuizTime": "24 hrs left",
         "nextQuizTitle": "A Superman quiz",
