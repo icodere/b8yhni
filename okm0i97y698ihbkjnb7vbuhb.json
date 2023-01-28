@@ -1,9 +1,9 @@
 {
     "appHeader": {
-        "title": "A Batman quiz",
+        "title": "A Batman Quiz",
         "desc": "Batman was originally introduced as a ruthless vigilante.",
-        "appLink": "https://play.google.com",
-        "currentQuiztime": "24 hrs left",
+        "appLink": "https://play.google.com/store/apps/developer?id=Tapsaga.com&pli=1",
+        "currentQuizTime": "24 hrs left",
         "nextQuizTitle": "A Superman quiz",
         "nextQuizDate": "1st Feb 2023",
         "lastQuizWinner": "Sheldon Cooper"
