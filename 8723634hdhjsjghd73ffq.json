@@ -1,23 +1,23 @@
 {
     "database": [
         {
-            "question": "Bird which is used in twitter logo?",
-            "correct_answer": "Larry",
+            "question": "FF is a type of game?",
+            "correct_answer": "Third person shooter",
             "incorrect_answers": [
-                "Larry",
-                "Humming Bird",
-                "Tweety",
-                "Baby crow"
+                "Third person shooter",
+                "First person shooter",
+                "Team shooter",
+                "Single shooter"
             ]
         },
         {
-            "question": "Which one is the smallest ocean in the World?",
-            "correct_answer": "Arctic",
+            "question": "FF is not available on",
+            "correct_answer": "Nokia 1100",
             "incorrect_answers": [
-                "Indian",
-                "Pacific",
-                "Atlantic",
-                "Arctic"
+                "Nokia 1100",
+                "Iphone",
+                "Android",
+                "iOS"
             ]
         },
         {
