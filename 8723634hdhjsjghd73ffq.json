@@ -1,23 +1,23 @@
 {
     "database": [
         {
-            "question": "FF is a type of game?",
-            "correct_answer": "Third person shooter",
+            "question": "Bird which is used in twitter logo?",
+            "correct_answer": "Larry",
             "incorrect_answers": [
-                "Third person shooter",
-                "First person shooter",
-                "Team shooter",
-                "Single shooter"
+                "Larry",
+                "Humming Bird",
+                "Tweety",
+                "Baby crow"
             ]
         },
         {
-            "question": "FF is not available on",
-            "correct_answer": "Nokia 1100",
+            "question": "Which one is the smallest ocean in the World?",
+            "correct_answer": "Arctic",
             "incorrect_answers": [
-                "Nokia 1100",
-                "Iphone",
-                "Android",
-                "iOS"
+                "Indian",
+                "Pacific",
+                "Atlantic",
+                "Arctic"
             ]
         },
         {
@@ -38,6 +38,296 @@
                 "Indian",
                 "Pacific",
                 "Arctic"
+            ]
+        },
+        {
+            "question": "Which country is known as the playground of Europe?",
+            "correct_answer": "Switzerland",
+            "incorrect_answers": [
+                "Austria",
+                "Holland",
+                "Switzerland",
+                "Italy"
+            ]
+        },
+        {
+            "question": "Which country is known as the Land of Thunderbolts?",
+            "correct_answer": "Bhutan",
+            "incorrect_answers": [
+                "China",
+                "Bhutan",
+                "Mongolia",
+                "Thailand"
+            ]
+        },
+        {
+            "question": "Which country is also known as the Land of Rising Sun?",
+            "correct_answer": "Japan",
+            "incorrect_answers": [
+                "Japan",
+                "Fiji",
+                "India",
+                "Bhutan"
+            ]
+        },
+        {
+            "question": "In which country, white elephant is found?",
+            "correct_answer": "Thailand",
+            "incorrect_answers": [
+                "India",
+                "Sri Lanka",
+                "Thailand",
+                "Malaysia"
+            ]
+        },
+        {
+            "question": "Total number of oceans in the World is",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "3",
+                "5",
+                "8",
+                "7"
+            ]
+        },
+        {
+            "question": "How many countries were participated as founding member of United Nation?",
+            "correct_answer": "51",
+            "incorrect_answers": [
+                "45",
+                "50",
+                "51",
+                "52"
+            ]
+        },
+        {
+            "question": "Which one is the longest continental mountain range in the world?",
+            "correct_answer": "Andes",
+            "incorrect_answers": [
+                "Himalaya",
+                "Andes",
+                "Rocky Mountains",
+                "Ural Mountains"
+            ]
+        },
+        {
+            "question": "Which country launched the world’s first nationwise 5G mobile network?",
+            "correct_answer": "South Korea",
+            "incorrect_answers": [
+                "Japan",
+                "India",
+                "America",
+                "South Korea"
+            ]
+        },
+        {
+            "question": "What makes a reptile a reptile?",
+            "correct_answer": "Egg laying",
+            "incorrect_answers": [
+                "Warm blooded",
+                "Cold blooded",
+                "Non hearing",
+                "Egg laying"
+            ]
+        },
+        {
+            "question": "Oxygen and ozone are",
+            "correct_answer": "Allotropes",
+            "incorrect_answers": [
+                "Isobars",
+                "Allotropes",
+                "Isotopes",
+                "Isomers"
+            ]
+        },
+        {
+            "question": "Who Won 10th Italian open title 2021?",
+            "correct_answer": "Rafael Nadal",
+            "incorrect_answers": [
+                "Novak Djokovic",
+                "Rafael Nadal",
+                "Dominic Thiem",
+                "Stefanos Tsitsipas"
+            ]
+        },
+        {
+            "question": "Waca cricket ground is located in?",
+            "correct_answer": "Perth",
+            "incorrect_answers": [
+                "Adelaide",
+                "Perth",
+                "Auckland",
+                "Durban"
+            ]
+        },
+        {
+            "question": "The term Dolphin Kick is associated with which of the following games?",
+            "correct_answer": "Swimming",
+            "incorrect_answers": [
+                "Badminton",
+                "Football",
+                "Swimming",
+                "Kick boxing"
+            ]
+        },
+        {
+            "question": "Which athlete scored first position in the London Marathon held on 4th October 2020?",
+            "correct_answer": "Shura Kitata",
+            "incorrect_answers": [
+                "Eliud Kipchoge",
+                "Shura Kitata",
+                "Vincent Kipchumba",
+                "Sisay Lemma"
+            ]
+        },
+        {
+            "question": "India shared gold medal with which country in the first online Chess Olympiad 2020?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+                "Russia",
+                "Pakistan",
+                "Nepal",
+                "South Korea"
+            ]
+        },
+        {
+            "question": "Which Swimmer from Australia won 4 gold medals at Tokyo Olympics 2020 – 2021?",
+            "correct_answer": "Emma McKeon",
+            "incorrect_answers": [
+                "Kylee McKeown",
+                "Emma McKeon",
+                "Lisa Carrington",
+                "Katie Ledecky"
+            ]
+        },
+        {
+            "question": "Which of the following trophies is related to Football?",
+            "correct_answer": "Merdeka Cup",
+            "incorrect_answers": [
+                "Merdeka Cup",
+                "Everest Cup",
+                "BC Futball Cup",
+                "MS Cup"
+            ]
+        },
+        {
+            "question": "Which technology company has launched a campaign named Make Small Strong?",
+            "correct_answer": "Google",
+            "incorrect_answers": [
+                "Microsoft",
+                "Google",
+                "Amazon",
+                "Infosys"
+            ]
+        },
+        {
+            "question": "ChatGPT is developed by?",
+            "correct_answer": "OpenAI",
+            "incorrect_answers": [
+                "OpenAI",
+                "Google",
+                "Twitter",
+                "Apple"
+            ]
+        },
+        {
+            "question": "Which European nation first began sustained campaign of exploration?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": [
+                "England",
+                "Netherlands",
+                "France",
+                "Portugal"
+            ]
+        },
+        {
+            "question": "Who amongst the following Mauryan rulers did conquer the Deccan?",
+            "correct_answer": "Bindusara",
+            "incorrect_answers": [
+                "Kunala",
+                "Bindusara",
+                "Chandragupta",
+                "Ashoka"
+            ]
+        },
+        {
+            "question": "Which planet is known as the Watery Planet?",
+            "correct_answer": "Earth",
+            "incorrect_answers": [
+                "Mercury",
+                "Jupiter",
+                "Mars",
+                "Earth"
+            ]
+        },
+        {
+            "question": "Which one among the following four planets is the biggest in size?",
+            "correct_answer": "Earth",
+            "incorrect_answers": [
+                "Mars",
+                "Earth",
+                "Venus",
+                "Mercury"
+            ]
+        },
+        {
+            "question": "The period of one revolution of sun around the centre of galaxy is called",
+            "correct_answer": "Cosmic year",
+            "incorrect_answers": [
+                "Light year",
+                "Cosmic year",
+                "Parsec",
+                "Astronomical year"
+            ]
+        },
+        {
+            "question": "Which of the following planets is known as Morning Star?",
+            "correct_answer": "Mercury",
+            "incorrect_answers": [
+                "Mercury",
+                "Venus",
+                "Moon",
+                "Jupiter"
+            ]
+        },
+        {
+            "question": "Full adder is used to",
+            "correct_answer": "3 bit addition",
+            "incorrect_answers": [
+                "2 bit addition",
+                "3 bit addition",
+                "4 bit addition",
+                "5 bit addition"
+            ]
+        },
+        {
+            "question": "Any number with an exponent of zero is equal to",
+            "correct_answer": "One",
+            "incorrect_answers": [
+                "Zero",
+                "One",
+                "Two",
+                "Ten"
+            ]
+        },
+        {
+            "question": "FF is a type of game?",
+            "correct_answer": "Third person shooter",
+            "incorrect_answers": [
+                "Third person shooter",
+                "First person shooter",
+                "Team shooter",
+                "Single shooter"
+            ]
+        },
+        {
+            "question": "FF is not available on",
+            "correct_answer": "Nokia 1100",
+            "incorrect_answers": [
+                "Nokia 1100",
+                "Iphone",
+                "Android",
+                "iOS"
             ]
         }
     ]
