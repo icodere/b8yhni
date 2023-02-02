@@ -1,1 +1,73 @@
-072998
+{
+    "appHeader": {
+        "appTitle": "A Batman Quiz",
+        "appDesc": "Batman was originally introduced as a ruthless vigilante.",
+        "appLink": "https://play.google.com",
+        "currentQuizTime": "24 hrs left",
+        "lastQuizWinner": "Sheldon Cooper"
+    },
+    "quiz": [
+        {
+            "question": "What is the secret identity of Batman?",
+            "correct_answer": "Bruce Wayne",
+            "incorrect_answers": [
+                "Clark Kent",
+                "Tony Stark",
+                "Peter Parker"
+            ],
+            "point": 10
+        },
+        {
+            "question": "What is the name of Batman's butler and closest confidant?",
+            "correct_answer": "Alfred Pennyworth",
+            "incorrect_answers": [
+                "Harvey Dent",
+                "Lucius Fox",
+                "Jim Gordon"
+            ],
+            "point": 10
+        },
+        {
+            "question": "What is the name of Batman's crime-fighting partner?",
+            "correct_answer": "Robin",
+            "incorrect_answers": [
+                "Superman",
+                "Wonder Woman",
+                "Aquaman"
+            ],
+            "point": 10
+        },
+        {
+            "question": "In which year did the first Batman comic book debut?",
+            "correct_answer": "1939",
+            "incorrect_answers": [
+                "1959",
+                "1949",
+                "1969"
+            ],
+            "point": 10
+        },
+        {
+            "question": "Who created the character of Batman?",
+            "correct_answer": "Bob Kane",
+            "incorrect_answers": [
+                "Stan Lee",
+                "Jack Kirby",
+                "Alan Moore"
+            ],
+            "point": 10
+        }
+    ],
+    "voucher": {
+        "heading": "Congratulations!",
+        "subTitle": "You won the multiple discount codes",
+        "codeOne": "100MILSEGUIDORES",
+        "codeTwo": "CARREFOURHOED2021",
+        "codeThree": "ECONOMYEVENT2021",
+        "retry":"To win discount coupon codes, you need to answer all the questions correctly",
+    },
+    "nextOne": {
+        "nextQuizTitle": "A Superman quiz",
+        "nextQuizDate": "1st Feb 2023"
+    }
+}
