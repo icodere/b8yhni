@@ -2,6 +2,7 @@
   "appName": "Tiny Articles",
   "appDesc": "Your daily dose of knowledge",
   "appLink": "Demo link",
+  "adRef": 2,
   "articles": [
     {
       "id": 1,
