@@ -11,7 +11,6 @@
             "question": "Bird which is used in twitter logo?",
             "correct_answer": "Larry",
             "incorrect_answers": [
-                "Larry",
                 "Humming Bird",
                 "Tweety",
                 "Baby crow"
@@ -25,7 +24,6 @@
                 "Indian",
                 "Pacific",
                 "Atlantic",
-                "Arctic"
             ],
             "point": 10
         },
@@ -33,7 +31,6 @@
             "question": "Which country gifted the ‘Statue of Liberty’ to USA in 1886?",
             "correct_answer": "France",
             "incorrect_answers": [
-                "France",
                 "Canada",
                 "Brazil",
                 "England"
@@ -44,7 +41,6 @@
             "question": "In which ocean Bermuda Triangle region is located?",
             "correct_answer": "Atlantic",
             "incorrect_answers": [
-                "Atlantic",
                 "Indian",
                 "Pacific",
                 "Arctic"
@@ -57,7 +53,6 @@
             "incorrect_answers": [
                 "Austria",
                 "Holland",
-                "Switzerland",
                 "Italy"
             ],
             "point": 10
@@ -67,7 +62,6 @@
             "correct_answer": "Bhutan",
             "incorrect_answers": [
                 "China",
-                "Bhutan",
                 "Mongolia",
                 "Thailand"
             ],
@@ -77,7 +71,6 @@
             "question": "Which country is also known as the Land of Rising Sun?",
             "correct_answer": "Japan",
             "incorrect_answers": [
-                "Japan",
                 "Fiji",
                 "India",
                 "Bhutan"
@@ -90,7 +83,6 @@
             "incorrect_answers": [
                 "India",
                 "Sri Lanka",
-                "Thailand",
                 "Malaysia"
             ],
             "point": 10
@@ -100,7 +92,6 @@
             "correct_answer": "5",
             "incorrect_answers": [
                 "3",
-                "5",
                 "8",
                 "7"
             ],
@@ -112,7 +103,6 @@
             "incorrect_answers": [
                 "45",
                 "50",
-                "51",
                 "52"
             ],
             "point": 10
@@ -122,7 +112,6 @@
             "correct_answer": "Andes",
             "incorrect_answers": [
                 "Himalaya",
-                "Andes",
                 "Rocky Mountains",
                 "Ural Mountains"
             ],
@@ -134,8 +123,7 @@
             "incorrect_answers": [
                 "Japan",
                 "India",
-                "America",
-                "South Korea"
+                "America"
             ],
             "point": 10
         },
@@ -145,8 +133,7 @@
             "incorrect_answers": [
                 "Warm blooded",
                 "Cold blooded",
-                "Non hearing",
-                "Egg laying"
+                "Non hearing"
             ],
             "point": 10
         },
@@ -155,7 +142,6 @@
             "correct_answer": "Allotropes",
             "incorrect_answers": [
                 "Isobars",
-                "Allotropes",
                 "Isotopes",
                 "Isomers"
             ],
@@ -166,7 +152,6 @@
             "correct_answer": "Rafael Nadal",
             "incorrect_answers": [
                 "Novak Djokovic",
-                "Rafael Nadal",
                 "Dominic Thiem",
                 "Stefanos Tsitsipas"
             ],
@@ -177,7 +162,6 @@
             "correct_answer": "Perth",
             "incorrect_answers": [
                 "Adelaide",
-                "Perth",
                 "Auckland",
                 "Durban"
             ],
@@ -189,7 +173,6 @@
             "incorrect_answers": [
                 "Badminton",
                 "Football",
-                "Swimming",
                 "Kick boxing"
             ],
             "point": 10
@@ -199,7 +182,6 @@
             "correct_answer": "Shura Kitata",
             "incorrect_answers": [
                 "Eliud Kipchoge",
-                "Shura Kitata",
                 "Vincent Kipchumba",
                 "Sisay Lemma"
             ],
@@ -209,7 +191,6 @@
             "question": "India shared gold medal with which country in the first online Chess Olympiad 2020?",
             "correct_answer": "Russia",
             "incorrect_answers": [
-                "Russia",
                 "Pakistan",
                 "Nepal",
                 "South Korea"
@@ -221,7 +202,6 @@
             "correct_answer": "Emma McKeon",
             "incorrect_answers": [
                 "Kylee McKeown",
-                "Emma McKeon",
                 "Lisa Carrington",
                 "Katie Ledecky"
             ],
@@ -231,7 +211,6 @@
             "question": "Which of the following trophies is related to Football?",
             "correct_answer": "Merdeka Cup",
             "incorrect_answers": [
-                "Merdeka Cup",
                 "Everest Cup",
                 "BC Futball Cup",
                 "MS Cup"
@@ -243,7 +222,6 @@
             "correct_answer": "Google",
             "incorrect_answers": [
                 "Microsoft",
-                "Google",
                 "Amazon",
                 "Infosys"
             ],
@@ -253,7 +231,6 @@
             "question": "ChatGPT is developed by?",
             "correct_answer": "OpenAI",
             "incorrect_answers": [
-                "OpenAI",
                 "Google",
                 "Twitter",
                 "Apple"
@@ -266,8 +243,7 @@
             "incorrect_answers": [
                 "England",
                 "Netherlands",
-                "France",
-                "Portugal"
+                "France"
             ],
             "point": 10
         },
@@ -276,7 +252,6 @@
             "correct_answer": "Bindusara",
             "incorrect_answers": [
                 "Kunala",
-                "Bindusara",
                 "Chandragupta",
                 "Ashoka"
             ],
@@ -288,8 +263,7 @@
             "incorrect_answers": [
                 "Mercury",
                 "Jupiter",
-                "Mars",
-                "Earth"
+                "Mars"
             ],
             "point": 10
         },
@@ -298,7 +272,6 @@
             "correct_answer": "Earth",
             "incorrect_answers": [
                 "Mars",
-                "Earth",
                 "Venus",
                 "Mercury"
             ],
@@ -309,7 +282,6 @@
             "correct_answer": "Cosmic year",
             "incorrect_answers": [
                 "Light year",
-                "Cosmic year",
                 "Parsec",
                 "Astronomical year"
             ],
@@ -319,7 +291,6 @@
             "question": "Which of the following planets is known as Morning Star?",
             "correct_answer": "Mercury",
             "incorrect_answers": [
-                "Mercury",
                 "Venus",
                 "Moon",
                 "Jupiter"
@@ -331,7 +302,6 @@
             "correct_answer": "3 bit addition",
             "incorrect_answers": [
                 "2 bit addition",
-                "3 bit addition",
                 "4 bit addition",
                 "5 bit addition"
             ],
@@ -342,7 +312,6 @@
             "correct_answer": "One",
             "incorrect_answers": [
                 "Zero",
-                "One",
                 "Two",
                 "Ten"
             ],
@@ -353,7 +322,6 @@
             "correct_answer": "IBM",
             "incorrect_answers": [
                 "Google",
-                "IBM",
                 "Apple",
                 "Microsoft"
             ],
@@ -363,7 +331,6 @@
             "question": "Study of life in outer space is",
             "correct_answer": "Exobiology",
             "incorrect_answers": [
-                "Exobiology",
                 "Neobiology",
                 "Spacebiology",
                 "Unibiology"
