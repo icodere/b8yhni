@@ -9,52 +9,57 @@
     "quiz": [
         {
             "question": "What is the secret identity of Batman?",
-            "correct_answer": "Bruce Wayne",
-            "incorrect_answers": [
+            "options": [
                 "Clark Kent",
                 "Tony Stark",
+                "Bruce Wayne",
                 "Peter Parker"
             ],
+            "answer": "Bruce Wayne",
             "point": 10
         },
         {
             "question": "What is the name of Batman's butler and closest confidant?",
-            "correct_answer": "Alfred Pennyworth",
-            "incorrect_answers": [
+            "options": [
                 "Harvey Dent",
                 "Lucius Fox",
+                "Alfred Pennyworth",
                 "Jim Gordon"
             ],
+            "answer": "Alfred Pennyworth",
             "point": 10
         },
         {
             "question": "What is the name of Batman's crime-fighting partner?",
-            "correct_answer": "Robin",
-            "incorrect_answers": [
+            "options": [
                 "Superman",
+                "Robin",
                 "Wonder Woman",
                 "Aquaman"
             ],
+            "answer": "Robin",
             "point": 10
         },
         {
             "question": "In which year did the first Batman comic book debut?",
-            "correct_answer": "1939",
-            "incorrect_answers": [
+            "options": [
                 "1959",
+                "1939",
                 "1949",
                 "1969"
             ],
+            "answer": "1939",
             "point": 10
         },
         {
             "question": "Who created the character of Batman?",
-            "correct_answer": "Bob Kane",
-            "incorrect_answers": [
+            "options": [
                 "Stan Lee",
                 "Jack Kirby",
+                "Bob Kane",
                 "Alan Moore"
             ],
+            "answer": "Bob Kane",
             "point": 10
         }
     ],
@@ -64,7 +69,7 @@
         "codeOne": "100MILSEGUIDORES",
         "codeTwo": "CARREFOURHOED2021",
         "codeThree": "ECONOMYEVENT2021",
-        "retry":"To win discount coupon codes, you need to answer all the questions correctly"
+        "retry": "To win discount coupon codes, you need to answer all the questions correctly"
     },
     "nextOne": {
         "nextQuizTitle": "A Superman quiz",
