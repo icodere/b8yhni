@@ -15,7 +15,8 @@
                 "Humming Bird",
                 "Tweety",
                 "Baby crow"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which one is the smallest ocean in the World?",
@@ -25,7 +26,8 @@
                 "Pacific",
                 "Atlantic",
                 "Arctic"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which country gifted the ‘Statue of Liberty’ to USA in 1886?",
@@ -35,7 +37,8 @@
                 "Canada",
                 "Brazil",
                 "England"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "In which ocean Bermuda Triangle region is located?",
@@ -45,7 +48,8 @@
                 "Indian",
                 "Pacific",
                 "Arctic"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which country is known as the playground of Europe?",
@@ -55,7 +59,8 @@
                 "Holland",
                 "Switzerland",
                 "Italy"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which country is known as the Land of Thunderbolts?",
@@ -65,7 +70,8 @@
                 "Bhutan",
                 "Mongolia",
                 "Thailand"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which country is also known as the Land of Rising Sun?",
@@ -75,7 +81,8 @@
                 "Fiji",
                 "India",
                 "Bhutan"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "In which country, white elephant is found?",
@@ -85,7 +92,8 @@
                 "Sri Lanka",
                 "Thailand",
                 "Malaysia"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Total number of oceans in the World is",
@@ -95,7 +103,8 @@
                 "5",
                 "8",
                 "7"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "How many countries were participated as founding member of United Nation?",
@@ -105,7 +114,8 @@
                 "50",
                 "51",
                 "52"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which one is the longest continental mountain range in the world?",
@@ -115,7 +125,8 @@
                 "Andes",
                 "Rocky Mountains",
                 "Ural Mountains"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which country launched the world’s first nationwise 5G mobile network?",
@@ -125,7 +136,8 @@
                 "India",
                 "America",
                 "South Korea"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "What makes a reptile a reptile?",
@@ -135,7 +147,8 @@
                 "Cold blooded",
                 "Non hearing",
                 "Egg laying"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Oxygen and ozone are",
@@ -145,7 +158,8 @@
                 "Allotropes",
                 "Isotopes",
                 "Isomers"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Who Won 10th Italian open title 2021?",
@@ -155,7 +169,8 @@
                 "Rafael Nadal",
                 "Dominic Thiem",
                 "Stefanos Tsitsipas"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Waca cricket ground is located in?",
@@ -165,7 +180,8 @@
                 "Perth",
                 "Auckland",
                 "Durban"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "The term Dolphin Kick is associated with which of the following games?",
@@ -175,7 +191,8 @@
                 "Football",
                 "Swimming",
                 "Kick boxing"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which athlete scored first position in the London Marathon held on 4th October 2020?",
@@ -185,7 +202,8 @@
                 "Shura Kitata",
                 "Vincent Kipchumba",
                 "Sisay Lemma"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "India shared gold medal with which country in the first online Chess Olympiad 2020?",
@@ -195,7 +213,8 @@
                 "Pakistan",
                 "Nepal",
                 "South Korea"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which Swimmer from Australia won 4 gold medals at Tokyo Olympics 2020 – 2021?",
@@ -205,7 +224,8 @@
                 "Emma McKeon",
                 "Lisa Carrington",
                 "Katie Ledecky"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which of the following trophies is related to Football?",
@@ -215,7 +235,8 @@
                 "Everest Cup",
                 "BC Futball Cup",
                 "MS Cup"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which technology company has launched a campaign named Make Small Strong?",
@@ -225,7 +246,8 @@
                 "Google",
                 "Amazon",
                 "Infosys"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "ChatGPT is developed by?",
@@ -235,7 +257,8 @@
                 "Google",
                 "Twitter",
                 "Apple"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which European nation first began sustained campaign of exploration?",
@@ -245,7 +268,8 @@
                 "Netherlands",
                 "France",
                 "Portugal"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Who amongst the following Mauryan rulers did conquer the Deccan?",
@@ -255,7 +279,8 @@
                 "Bindusara",
                 "Chandragupta",
                 "Ashoka"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which planet is known as the Watery Planet?",
@@ -265,7 +290,8 @@
                 "Jupiter",
                 "Mars",
                 "Earth"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which one among the following four planets is the biggest in size?",
@@ -275,7 +301,8 @@
                 "Earth",
                 "Venus",
                 "Mercury"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "The period of one revolution of sun around the centre of galaxy is called",
@@ -285,7 +312,8 @@
                 "Cosmic year",
                 "Parsec",
                 "Astronomical year"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which of the following planets is known as Morning Star?",
@@ -295,7 +323,8 @@
                 "Venus",
                 "Moon",
                 "Jupiter"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Full adder is used to",
@@ -305,7 +334,8 @@
                 "3 bit addition",
                 "4 bit addition",
                 "5 bit addition"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Any number with an exponent of zero is equal to",
@@ -315,7 +345,8 @@
                 "One",
                 "Two",
                 "Ten"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "The scientists released world’s smallest stop motion film called A Boy and His Atom by",
@@ -325,7 +356,8 @@
                 "IBM",
                 "Apple",
                 "Microsoft"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Study of life in outer space is",
@@ -335,7 +367,8 @@
                 "Neobiology",
                 "Spacebiology",
                 "Unibiology"
-            ]
+            ],
+            "point": 10
         }
     ],
     "voucher": {
