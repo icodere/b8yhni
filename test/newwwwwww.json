@@ -1,9 +1,5 @@
 {
     "appHeader": {
-        "appTitle": "A Batman Quiz",
-        "appDesc": "Batman was originally introduced as a ruthless vigilante.",
-        "appLink": "https://play.google.com",
-        "currentQuizTime": "24 hrs left",
         "lastQuizWinner": "Sheldon Cooper"
     },
     "quiz": [
