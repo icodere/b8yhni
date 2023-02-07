@@ -1,0 +1,64 @@
+{
+  "quiz": [
+        {
+            "question": "Which country is known as the playground of Europe?",
+            "correct_answer": "Switzerland",
+            "incorrect_answers": [
+                "Austria",
+                "Holland",
+                "Italy"
+            ],
+            "point": 10
+        },
+        {
+            "question": "Which country is known as the Land of Thunderbolts?",
+            "correct_answer": "Bhutan",
+            "incorrect_answers": [
+                "China",
+                "Mongolia",
+                "Thailand"
+            ],
+            "point": 10
+        },
+        {
+            "question": "Which country is also known as the Land of Rising Sun?",
+            "correct_answer": "Japan",
+            "incorrect_answers": [
+                "Fiji",
+                "India",
+                "Bhutan"
+            ],
+            "point": 10
+        },
+        {
+            "question": "In which country, white elephant is found?",
+            "correct_answer": "Thailand",
+            "incorrect_answers": [
+                "India",
+                "Sri Lanka",
+                "Malaysia"
+            ],
+            "point": 10
+        },
+        {
+            "question": "Total number of oceans in the World is",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "3",
+                "8",
+                "7"
+            ],
+            "point": 10
+        },
+        {
+            "question": "How many countries were participated as founding member of United Nation?",
+            "correct_answer": "51",
+            "incorrect_answers": [
+                "45",
+                "50",
+                "52"
+            ],
+            "point": 10
+        }
+    ]
+}
