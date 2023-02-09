@@ -2,7 +2,7 @@
   "adRef": 3,
   "quiz": [
         {
-            "question": "Which country is known as the playground of Europe?Which country is known as the playground of Europe?Which country is known as the playground of Europe?Which country is known as the playground of Europe?Which country is known as the playground of Europe?",
+            "question": "Which country is known as the playground of Europe? Which country is known as the playground of Europe? Which country is known as the playground of Europe? Which country is known as the playground of Europe? Which country is known as the playground of Europe?",
             "correct_answer": "Switzerland",
             "incorrect_answers": [
                 "Austria",
@@ -22,7 +22,7 @@
             "point": 10
         },
         {
-            "question": "Which country is also known as the Land of Rising Sun Rising Sun Rising Sun Rising Sun Rising Sun ?",
+            "question": "Which country is also known as the Land of Rising Sun Rising?",
             "correct_answer": "Japan",
             "incorrect_answers": [
                 "Fiji",
@@ -52,7 +52,7 @@
             "point": 10
         },
         {
-            "question": "How many countries were participated as founding member of United Nation founding member of United Nation founding member of United Nation founding member of United Nation founding member of United Nation founding member of United Nation founding member of United Nation founding member of United Nation founding member of United Nation founding member of United Nation ?",
+            "question": "How many countries were participated as founding member of United Nation?",
             "correct_answer": "51",
             "incorrect_answers": [
                 "45",
