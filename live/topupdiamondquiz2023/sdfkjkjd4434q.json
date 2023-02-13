@@ -5,11 +5,11 @@
             "question": "Bird which is used in twitter logo?",
             "correct_answer": "Larry",
             "incorrect_answers": [
-                "Larry",
                 "Humming Bird",
                 "Tweety",
                 "Baby crow"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which one is the smallest ocean in the World?",
@@ -17,29 +17,29 @@
             "incorrect_answers": [
                 "Indian",
                 "Pacific",
-                "Atlantic",
-                "Arctic"
-            ]
+                "Atlantic"
+            ],
+            "point": 10
         },
         {
             "question": "Which country gifted the ‘Statue of Liberty’ to USA in 1886?",
             "correct_answer": "France",
             "incorrect_answers": [
-                "France",
                 "Canada",
                 "Brazil",
                 "England"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "In which ocean Bermuda Triangle region is located?",
             "correct_answer": "Atlantic",
             "incorrect_answers": [
-                "Atlantic",
                 "Indian",
                 "Pacific",
                 "Arctic"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which country is known as the playground of Europe?",
@@ -47,29 +47,29 @@
             "incorrect_answers": [
                 "Austria",
                 "Holland",
-                "Switzerland",
                 "Italy"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which country is known as the Land of Thunderbolts?",
             "correct_answer": "Bhutan",
             "incorrect_answers": [
                 "China",
-                "Bhutan",
                 "Mongolia",
                 "Thailand"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which country is also known as the Land of Rising Sun?",
             "correct_answer": "Japan",
             "incorrect_answers": [
-                "Japan",
                 "Fiji",
                 "India",
                 "Bhutan"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "In which country, white elephant is found?",
@@ -77,19 +77,19 @@
             "incorrect_answers": [
                 "India",
                 "Sri Lanka",
-                "Thailand",
                 "Malaysia"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Total number of oceans in the World is",
             "correct_answer": "5",
             "incorrect_answers": [
                 "3",
-                "5",
                 "8",
                 "7"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "How many countries were participated as founding member of United Nation?",
@@ -97,19 +97,19 @@
             "incorrect_answers": [
                 "45",
                 "50",
-                "51",
                 "52"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which one is the longest continental mountain range in the world?",
             "correct_answer": "Andes",
             "incorrect_answers": [
                 "Himalaya",
-                "Andes",
                 "Rocky Mountains",
                 "Ural Mountains"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which country launched the world’s first nationwise 5G mobile network?",
@@ -117,9 +117,9 @@
             "incorrect_answers": [
                 "Japan",
                 "India",
-                "America",
-                "South Korea"
-            ]
+                "America"
+            ],
+            "point": 10
         },
         {
             "question": "What makes a reptile a reptile?",
@@ -127,39 +127,39 @@
             "incorrect_answers": [
                 "Warm blooded",
                 "Cold blooded",
-                "Non hearing",
-                "Egg laying"
-            ]
+                "Non hearing"
+            ],
+            "point": 10
         },
         {
             "question": "Oxygen and ozone are",
             "correct_answer": "Allotropes",
             "incorrect_answers": [
                 "Isobars",
-                "Allotropes",
                 "Isotopes",
                 "Isomers"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Who Won 10th Italian open title 2021?",
             "correct_answer": "Rafael Nadal",
             "incorrect_answers": [
                 "Novak Djokovic",
-                "Rafael Nadal",
                 "Dominic Thiem",
                 "Stefanos Tsitsipas"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Waca cricket ground is located in?",
             "correct_answer": "Perth",
             "incorrect_answers": [
                 "Adelaide",
-                "Perth",
                 "Auckland",
                 "Durban"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "The term Dolphin Kick is associated with which of the following games?",
@@ -167,69 +167,69 @@
             "incorrect_answers": [
                 "Badminton",
                 "Football",
-                "Swimming",
                 "Kick boxing"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which athlete scored first position in the London Marathon held on 4th October 2020?",
             "correct_answer": "Shura Kitata",
             "incorrect_answers": [
                 "Eliud Kipchoge",
-                "Shura Kitata",
                 "Vincent Kipchumba",
                 "Sisay Lemma"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "India shared gold medal with which country in the first online Chess Olympiad 2020?",
             "correct_answer": "Russia",
             "incorrect_answers": [
-                "Russia",
                 "Pakistan",
                 "Nepal",
                 "South Korea"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which Swimmer from Australia won 4 gold medals at Tokyo Olympics 2020 – 2021?",
             "correct_answer": "Emma McKeon",
             "incorrect_answers": [
                 "Kylee McKeown",
-                "Emma McKeon",
                 "Lisa Carrington",
                 "Katie Ledecky"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which of the following trophies is related to Football?",
             "correct_answer": "Merdeka Cup",
             "incorrect_answers": [
-                "Merdeka Cup",
                 "Everest Cup",
                 "BC Futball Cup",
                 "MS Cup"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which technology company has launched a campaign named Make Small Strong?",
             "correct_answer": "Google",
             "incorrect_answers": [
                 "Microsoft",
-                "Google",
                 "Amazon",
                 "Infosys"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "ChatGPT is developed by?",
             "correct_answer": "OpenAI",
             "incorrect_answers": [
-                "OpenAI",
                 "Google",
                 "Twitter",
                 "Apple"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which European nation first began sustained campaign of exploration?",
@@ -237,19 +237,19 @@
             "incorrect_answers": [
                 "England",
                 "Netherlands",
-                "France",
-                "Portugal"
-            ]
+                "France"
+            ],
+            "point": 10
         },
         {
             "question": "Who amongst the following Mauryan rulers did conquer the Deccan?",
             "correct_answer": "Bindusara",
             "incorrect_answers": [
                 "Kunala",
-                "Bindusara",
                 "Chandragupta",
                 "Ashoka"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which planet is known as the Watery Planet?",
@@ -257,79 +257,79 @@
             "incorrect_answers": [
                 "Mercury",
                 "Jupiter",
-                "Mars",
-                "Earth"
-            ]
+                "Mars"
+            ],
+            "point": 10
         },
         {
             "question": "Which one among the following four planets is the biggest in size?",
             "correct_answer": "Earth",
             "incorrect_answers": [
                 "Mars",
-                "Earth",
                 "Venus",
                 "Mercury"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "The period of one revolution of sun around the centre of galaxy is called",
             "correct_answer": "Cosmic year",
             "incorrect_answers": [
                 "Light year",
-                "Cosmic year",
                 "Parsec",
                 "Astronomical year"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Which of the following planets is known as Morning Star?",
             "correct_answer": "Mercury",
             "incorrect_answers": [
-                "Mercury",
                 "Venus",
                 "Moon",
                 "Jupiter"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Full adder is used to",
             "correct_answer": "3 bit addition",
             "incorrect_answers": [
                 "2 bit addition",
-                "3 bit addition",
                 "4 bit addition",
                 "5 bit addition"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "Any number with an exponent of zero is equal to",
             "correct_answer": "One",
             "incorrect_answers": [
                 "Zero",
-                "One",
                 "Two",
                 "Ten"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "FF is a type of game?",
             "correct_answer": "Third person shooter",
             "incorrect_answers": [
-                "Third person shooter",
                 "First person shooter",
                 "Team shooter",
                 "Single shooter"
-            ]
+            ],
+            "point": 10
         },
         {
             "question": "FF is not available on",
             "correct_answer": "Nokia 1100",
             "incorrect_answers": [
-                "Nokia 1100",
                 "Iphone",
                 "Android",
                 "iOS"
-            ]
+            ],
+            "point": 10
         }
     ]
 }
