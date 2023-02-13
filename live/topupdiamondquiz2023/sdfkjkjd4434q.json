@@ -1,5 +1,6 @@
 {
-    "database": [
+    "adRef": 3,
+    "quiz": [
         {
             "question": "Bird which is used in twitter logo?",
             "correct_answer": "Larry",
